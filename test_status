@@ -1,0 +1,107 @@
+[
+    {
+        "Synapse": {
+            "updated": true,
+            "exploit_version": "v2.20.5d",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-10",
+            "last_update_unix": 1668105361
+        }
+    },
+    {
+        "Script-Ware": {
+            "updated": true,
+            "exploit_version": "1.0.41.3",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-10",
+            "last_update_unix": 1668131102
+        }
+    },
+    {
+        "KRNL": {
+            "updated": true,
+            "exploit_version": "2014O",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-11",
+            "last_update_unix": 1668212881
+        }
+    },
+    {
+        "DX9WARE": {
+            "updated": true,
+            "exploit_version": "1.0.58",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-12",
+            "last_update_unix": 1668244142
+        }
+    },
+    {
+        "Electron": {
+            "updated": 3,
+            "exploit_version": "v2.2.8.1",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-12",
+            "last_update_unix": 1668260702
+        }
+    },
+    {
+        "WeAreDevs API": {
+            "updated": true,
+            "exploit_version": "3089",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-09",
+            "last_update_unix": 1668051421
+        }
+    },
+    {
+        "Oxygen": {
+            "updated": true,
+            "exploit_version": "64",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-12",
+            "last_update_unix": 1668261721
+        }
+    },
+    {
+        "Fluxus": {
+            "updated": true,
+            "exploit_version": "V7.2b507",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-10",
+            "last_update_unix": 1668126428
+        }
+    },
+    {
+        "Ro-Ware": {
+            "updated": true,
+            "exploit_version": "1.0.0.59",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-11",
+            "last_update_unix": 1668170461
+        }
+    },
+    {
+        "Celestial": {
+            "updated": true,
+            "exploit_version": "v1.2.5",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-09",
+            "last_update_unix": 1668052021
+        }
+    },
+    {
+        "Comet": {
+            "updated": true,
+            "exploit_version": "v3.0.0.12 Belgium Tax Evasion",
+            "roblox_version": "version-d780cbcde4ab4f52",
+            "last_update": "2022-11-09",
+            "last_update_unix": 1668046322
+        }
+    },
+    {
+        "ROBLOX": {
+            "version": "version-d780cbcde4ab4f52",
+            "last_update_unix": 1668022771
+        }
+    }
+]
