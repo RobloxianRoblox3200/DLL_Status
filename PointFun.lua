@@ -76,11 +76,11 @@ for i,v in pairs(misc) do
         points = points + 1
     end
 end
-print("\n")
+print("")
 print("Function benchmark")
-print("\n--------------------")
-print("\ngot: "..points.." points \nmax: 52 points \nmissing functions:\n")
+print("--------------------")
+print("got: "..points.." points \nmax: 52 points \nmissing functions:\n")
 for i,v in pairs(missing) do
     print(v)
-	print("\n")
+	print("")
 end
