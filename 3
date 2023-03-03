@@ -1,0 +1,21 @@
+local search = _G.Search or "all"
+
+function searchF(q)
+    local t = {}
+    for _,v in pairs(getgenv()) do
+       if string.find(_:lower(), q) and search:lower() ~= "all" then
+           table.insert(t, _)
+         elseif search:lower() == "all" then
+           table.insert(t, _)
+        end
+    end
+    return t
+end
+local subbed = search:sub(#search - #search * 0.5 , #search):lower()
+local results = searchF(subbed)
+print("FUNCTION SEARCHER DLL")
+print("@@GREEN@@")
+print("-- [ FOUND " .. #results .. ' FUNCTIONS FOR "'..search..'" ] --\n')
+for _,v in pairs(results) do
+    print(v)
+end
