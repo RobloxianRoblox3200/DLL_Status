@@ -72,7 +72,6 @@ task.defer(function()
 	print("✅ Tested with a " .. rate .. "% success rate (" .. outOf .. ")")
 	print("⛔ " .. fails .. " tests failed")
 	print("⚠️ " .. undefined .. " globals are missing aliases")
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxianRoblox3200/DLL_Status/main/TestDLL/Fins"))()
 end)
 
 -- Cache
