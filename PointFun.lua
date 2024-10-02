@@ -82,5 +82,4 @@ print("--------------------")
 print("got: "..points.." points \nmax: 52 points \nmissing functions:\n")
 for i,v in pairs(missing) do
     print(v)
-	print("")
 end
